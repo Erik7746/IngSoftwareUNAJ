@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ms-eureka-service
+    name: ms-eureka-server
   profiles:
     active: development
   config:
